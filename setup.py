@@ -1,5 +1,5 @@
 """
-Stream any media content using console
+API wrapper for azure face api
 """
 from setuptools import setup
 
@@ -7,7 +7,7 @@ dependencies = ['requests']
 
 setup(
     name='azure_face_api',
-    version='0.1.0',
+    version='0.1.2',
     url='https://github.com/PandaWhoCodes/azure_face_api',
     license='MIT',
     author='Thomas Ashish Cherian',
